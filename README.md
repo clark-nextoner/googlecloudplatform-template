@@ -30,5 +30,10 @@ The code behind Googles platform is extremely complicated and most of it is obfu
 - More Flexible typography
 - Full Form element support
 
+## What now?
+
+Currently I'm getting the code to a usable state, where everything is clean and ready for the first distribution. Once that's done, I'll release for future collaboration. NOTE: by using this code, you are violating copyrights by Google. This is for educational purposes only. 
+
+
 (more to come!)
 
