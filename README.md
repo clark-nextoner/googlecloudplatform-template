@@ -10,14 +10,14 @@ A restructured HTML template based on the Google Cloud Platform design style. Th
 ## Roadmap
 
 ### Current Wrapper Elements
--Panels (nPanel directive)
--Cards (nCard directive)
--JFK Buttons (nBtn-primary/nBtn-secondary directive)
--Random Typography Directives
--Dialog (nDialog directive)
--Collapsing Sidebar (nSidebar directive)
--Input (nInput directive)
--Select (nSelect directive)
+- Panels (nPanel directive)
+- Cards (nCard directive)
+- JFK Buttons (nBtn-primary/nBtn-secondary directive)
+- Random Typography Directives
+- Dialog (nDialog directive)
+- Collapsing Sidebar (nSidebar directive)
+- Input (nInput directive)
+- Select (nSelect directive)
 
 (more to come!)
 
