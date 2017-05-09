@@ -1,6 +1,6 @@
 # Google Cloud Platform AngularJS Template
 
-![build](https://img.shields.io/badge/build-in%20progress-yellow.svg) ![angular](https://img.shields.io/badge/AngularJS-v1.5.5-green.svg)
+![build](https://img.shields.io/badge/build-in%20progress-yellow.svg) ![angular](https://img.shields.io/badge/AngularJS-v1.5.5-green.svg) ![cleanliness](https://img.shields.io/badge/cleanliness-68%25-yellow.svg)
 
 ## Introduction
 A restructured HTML template based on the Google Cloud Platform design style. This was done by obtaining Googles CSS code and going through the process of deobfuscating it, then creating a complete package of AngularJS transcluding elements of the complicated Google elements, into an easy to work with HTML template.  
