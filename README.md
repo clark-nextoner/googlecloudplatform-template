@@ -19,5 +19,11 @@ A restructured HTML template based on the Google Cloud Platform design style. Th
 - Input (nInput directive)
 - Select (nSelect directive)
 
+### In Development
+- Tables
+- Alerts
+- More Flexible typography
+- Full Form element support
+
 (more to come!)
 
