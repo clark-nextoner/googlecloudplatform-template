@@ -7,6 +7,11 @@ A restructured HTML template based on the Google Cloud Platform design style. Th
 
 ![mockup](http://i.imgur.com/gODnqFV.png)
 
+## Ease of Use
+The code behind Googles platform is extremely complicated and most of it is obfuscated. However, after much trial and error the wrappers are very flexible and easy to use. An example of the markup needed for nCards.
+
+![nCard](http://i.imgur.com/Ko3b9dr.gifv)
+
 ## Roadmap
 
 ### Current Wrapper Elements
