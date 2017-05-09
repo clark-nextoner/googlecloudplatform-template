@@ -10,7 +10,7 @@ A restructured HTML template based on the Google Cloud Platform design style. Th
 ## Ease of Use
 The code behind Googles platform is extremely complicated and most of it is obfuscated. However, after much trial and error the wrappers are very flexible and easy to use. An example of the markup needed for nCards.
 
-![nCard](https://media.giphy.com/media/3ohzdENUBgYIUlA13i/giphy.gif)
+![nCard](https://gifyu.com/images/nCard.gif)
 
 ## Roadmap
 
